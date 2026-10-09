@@ -97,36 +97,106 @@ Beginner developer learning every day through real projects, systems, networking
 
 # 🚀 Featured Project
 
+<div align="center">
+
 ## 🎫 TicketFlow
+
+### Modern Ticket Management Platform
+
+<p>
+  <strong>TicketFlow</strong> is a ticket management platform designed to simplify
+  communication, request tracking and collaboration between employees,
+  managers, IT teams and administrators.
+</p>
+
+<a href="https://github.com/blueGameTV/TicketFlow">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=blueGameTV&repo=TicketFlow&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353"
+    alt="TicketFlow Repository"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/blueGameTV/TicketFlow">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-TicketFlow-39D353?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/blueGameTV/TicketFlow/releases">
+  <img src="https://img.shields.io/badge/RELEASES-Latest-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 👥 Designed for
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Administrators-Management-39D353?style=flat-square" />
+  <img src="https://img.shields.io/badge/IT-Support-2EA043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Managers-Validation-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Employees-Tickets-1F6F43?style=flat-square" />
+</p>
+
+---
+
+### ✨ Main Features
+
+| Feature | Description |
+|---|---|
+| 🎫 **Ticket Management** | Create, track and manage support requests |
+| 💬 **Ticket Communication** | Communicate directly inside each ticket |
+| 👥 **Users & Groups** | Manage users, teams and organizational groups |
+| 🔐 **Roles & Permissions** | Administrator, IT, Manager and Employee access |
+| ✅ **Manager Validation** | Request validation workflow for specific actions |
+| 📊 **Administration Tools** | Tools for monitoring and managing the platform |
+| 🏢 **Organization Ready** | Designed for internal business environments |
+
+---
+
+### 🛠️ Built With
 
 <p align="center">
 
-<a href="https://github.com/blueGameTV/TicketFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blueGameTV&repo=TicketFlow&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 </p>
 
-**TicketFlow** is a ticket management platform designed to simplify communication and request management between:
+---
 
-- 👑 Administrators
-- 🛠️ IT Teams
-- 👔 Managers
-- 👤 Employees
-
-### Main objectives
-
-- 🎫 Ticket management
-- 💬 Communication inside tickets
-- 👥 Role & group management
-- 🔐 Permission management
-- 📊 Administration tools
-- 🏢 Designed for organizational environments
+### 🚧 Project Status
 
 <p align="center">
-  <a href="https://github.com/blueGameTV/TicketFlow">
-    <img src="https://img.shields.io/badge/VIEW_TICKETFLOW-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<img src="https://img.shields.io/badge/STATUS-Active%20Development-39D353?style=for-the-badge" />
+<img src="https://img.shields.io/github/v/release/blueGameTV/TicketFlow?style=for-the-badge&label=LATEST%20VERSION" />
+<img src="https://img.shields.io/github/last-commit/blueGameTV/TicketFlow?style=for-the-badge&label=LAST%20UPDATE" />
+
+</p>
+
+<p align="center">
+  <i>TicketFlow is actively evolving with new features, interface improvements and security enhancements.</i>
+</p>
+
+---
+
+# 🟩 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/39D353/blueGameTV"
+    alt="blueGameTV GitHub Contribution Chart"
+  />
+</p>
+
+<p align="center">
+  <i>Every green square represents progress... and probably another coffee ☕</i>
 </p>
 
 ---
@@ -152,21 +222,6 @@ Beginner developer learning every day through real projects, systems, networking
     src="https://streak-stats.demolab.com?user=blueGameTV&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E"
     alt="GitHub Streak"
   />
-</p>
-
----
-
-# 🟩 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/39D353/blueGameTV"
-    alt="blueGameTV GitHub Contribution Chart"
-  />
-</p>
-
-<p align="center">
-  <i>Every green square represents progress... and probably another coffee ☕</i>
 </p>
 
 ---
