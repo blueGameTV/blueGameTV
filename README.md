@@ -149,12 +149,14 @@ Beginner developer learning every day through real projects, systems, networking
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blueGameTV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blueGameTV&theme=tokyo-night&hide_border=true&area=true" />
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueGameTV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
