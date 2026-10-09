@@ -102,7 +102,7 @@ Beginner developer learning every day through real projects, systems, networking
 <p align="center">
   <a href="https://github.com/blueGameTV/TicketFlow">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=blueGameTV&repo=TicketFlow&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=16a34a&border_color=30363D"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=blueGameTV&repo=TicketFlow&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FBFBFB&border_color=30363D"
       alt="TicketFlow Repository"
     />
   </a>
@@ -180,21 +180,21 @@ Beginner developer learning every day through real projects, systems, networking
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=blueGameTV&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353"
+    src="https://github-readme-stats.vercel.app/api?username=blueGameTV&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FBFBFB&text_color=C9D1D9&icon_color=39D353"
     alt="blueGameTV GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueGameTV&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&card_width=470"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueGameTV&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FBFBFB&text_color=C9D1D9&card_width=470"
     alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=blueGameTV&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=39D353&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=blueGameTV&hide_border=true&background=0D1117&stroke=30363D&ring=F08F48&fire=EE4F0B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FBFBFB&sideLabels=FBFBFB&dates=FBFBFB"
     alt="GitHub Streak"
   />
 </p>
