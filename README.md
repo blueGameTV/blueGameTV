@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hey, I'm blueGameTV
 
-<!--
-**blueGameTV/blueGameTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer • Network & Cybersecurity Enthusiast • Creator of TicketFlow
 
-Here are some ideas to get you started:
+I enjoy building and learning around **development, systems, networking and cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on **TicketFlow**, an open-source ticket management platform designed for organizations and IT support teams.
+
+---
+
+## 🚀 Featured Project
+
+### 🎫 TicketFlow
+
+A ticket management system designed to improve communication between:
+
+**Administrators • IT Teams • Managers • Employees**
+
+🔧 Currently in active development.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Development
+
+PHP • JavaScript • HTML • CSS • SQL
+
+### Systems & Infrastructure
+
+Linux • Apache • Docker • MySQL
+
+### Tools
+
+Git • GitHub • Visual Studio Code
+
+---
+
+## 📌 Current Focus
+
+- 🎫 Developing **TicketFlow**
+- 🔐 Cybersecurity
+- 🌐 Networking
+- 🐧 Linux server administration
+- 🐳 Docker & containerization
+
+---
+
+## 💻 Main Project
+
+**TicketFlow**
+
+GitHub:  
+https://github.com/blueGameTV/TicketFlow
+
+---
+
+> *"Le vent connaît ma route, mais jamais ma paix."*
