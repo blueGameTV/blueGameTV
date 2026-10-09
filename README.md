@@ -5,11 +5,11 @@
 <h1 align="center">👋 Hi, I'm blueGameTV</h1>
 
 <h3 align="center">
-Developer • Network • Cybersecurity • Creator of TicketFlow
+Beginner Developer • Network • Cybersecurity • Creator of TicketFlow
 </h3>
 
 <p align="center">
-I enjoy building applications, managing systems and learning more about networking and cybersecurity.
+Beginner developer learning every day through real projects, systems, networking and cybersecurity.
 </p>
 
 ---
@@ -36,6 +36,7 @@ I enjoy building applications, managing systems and learning more about networki
 
 ## 👨‍💻 About Me
 
+- 🌱 **Beginner Developer** constantly learning and improving
 - 🎫 Creator & Developer of **TicketFlow**
 - 💻 Interested in **software development**
 - 🌐 Interested in **networking & infrastructure**
@@ -44,8 +45,7 @@ I enjoy building applications, managing systems and learning more about networki
 - 🐳 Exploring **Docker & containerization**
 - 🗄️ Working with **MySQL databases**
 - 🚀 Always experimenting with new technologies
-
-> *"Le vent connaît ma route, mais jamais ma paix."*
+- ☕ Powered by coffee
 
 ---
 
