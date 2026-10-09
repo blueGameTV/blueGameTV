@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:1e3a8a,100:7c3aed&text=blueGameTV&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Developer%20%7C%20TicketFlow%20Creator%20%7C%20Network%20%26%20Cybersecurity&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:1e3a8a,100:7c3aed&text=blueGameTV&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=Developer%20%7C%20TicketFlow%20Creator%20%7C%20Network%20and%20Cybersecurity&descAlignY=58&animation=fadeIn" />
 </p>
 
 <h1 align="center">👋 Hi, I'm blueGameTV</h1>
